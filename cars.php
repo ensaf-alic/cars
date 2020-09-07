@@ -1,5 +1,7 @@
 <?php
 
+//It works
+
 $car_brands = json_decode(file_get_contents('cars.json') );
 
 ?>
